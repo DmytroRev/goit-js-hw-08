@@ -98,7 +98,6 @@ function handleModalOpen(event) {
       data-source="${gallery.original}"
       alt="${gallery.description}"
     />
-  </a>
     </div>
     
 `)
